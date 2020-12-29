@@ -1,4 +1,4 @@
-# DotNet Core - v3.1 - Projeto - 002
+# DotNet Core - v3.1 - SQLite - Projeto 002
 
 * Linguagem principal: C# (CSharp)
 * Outras linguagens: HTML5, CSS3 e Javascript
